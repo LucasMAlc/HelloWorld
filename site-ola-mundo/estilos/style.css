@@ -1,0 +1,11 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+body {
+    background-color: rgb(201, 144, 255);
+}
+main{
+    background-color: rgb(255, 210, 61);
+    box-shadow: 1px 1px 1px black;
+}
